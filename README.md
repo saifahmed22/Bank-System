@@ -2,11 +2,12 @@
 
 ## Team Tasks
 
-### 1. Leader – Customer Management
+### 1. Leader + Customer Management
 - Create Customer
 - Edit Customer
 - View Customer
 - Delete Customer
+- GitHub Management
 
 ### 2. Banking Operations
 - Deposit
@@ -18,14 +19,15 @@
 - Load Data
 - Manage customers.txt
 
-### 4. GUI
-- Design User Interface
-- Buttons and Input Fields
-- Messages and Navigation
-
-### 5. Main & Testing
+### 4. Main / Menu
 - main.c
+- Terminal Menu
+- User Input
 - Connect all functions
+
+### 5. Testing + Documentation
 - Testing
 - Error Handling
-- Final Integration
+- README
+- Screenshots
+- Presentation
