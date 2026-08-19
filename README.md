@@ -2,32 +2,32 @@
 
 ## Team Tasks
 
-### 1. Leader + Customer Management
+### 1. Leader
+- main.c
+- Terminal Menu
+- GitHub Management
+- Final Integration
+
+### 2. Customer Management
 - Create Customer
 - Edit Customer
 - View Customer
 - Delete Customer
-- GitHub Management
 
-### 2. Banking Operations
+### 3. Banking Operations
 - Deposit
 - Withdraw
 - Transfer Money
 
-### 3. File I/O
+### 4. File I/O
 - Save Data
 - Load Data
 - Manage customers.txt
 
-### 4. Main / Menu
-- main.c
-- Terminal Menu
-- User Input
-- Connect all functions
-
-### 5. Testing + Documentation
-- Testing
+### 5. Testing & Documentation
 - Error Handling
+- Testing
 - README
 - Screenshots
 - Presentation
+- 
