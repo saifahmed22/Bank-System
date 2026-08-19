@@ -24,10 +24,11 @@
 - Load Data
 - Manage customers.txt
 
-### 5. Testing & Documentation
+### 5. Testing + Presentation
 - Error Handling
 - Testing
-- README
-- Screenshots
-- Presentation
-- 
+- Final Testing
+- Project Presentation 
+ 
+ 
+ 
